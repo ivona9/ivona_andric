@@ -1,0 +1,52 @@
+@charset "utf-8";
+p ˙{
+	color:black;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 25px;
+	line-height: 30px;
+	width: 100px;
+	background-color:lightgoldenrodyellow;
+	padding: 30px;/* CSS Document */
+}
+.paragraf2 {
+	color:darkblue;
+	background-color: rgba(255, 255, 255, 0.5)
+}
+.novi_blok{
+	background-color: rgba(255, 255, 255, 0.9);
+	padding: 25px;
+	margin: 25px;
+	width: 40%;
+	
+}
+h1, h2
+{
+	font-family:  "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: hotpink;
+}
+span {color:rgb(255, 0, 255);}
+.pozadina {
+	background-image: url("slike/ppoz.jpg")
+}
+.drugapozadina {
+	background-imagine:url("slike/pozadina2.jpg") ;
+}
+a:link {
+	
+color: cornflowerblue;
+	background-color: orange;
+	padding: 10px;
+	line-height: 50px;
+	border: 2px solid #00000;
+}
+
+a:hover {
+	background-color: darkgrey;
+	
+}
+
+img {
+	height: 400px;
+	
+}
+
